@@ -63,10 +63,15 @@ pip install torch torchvision numpy scikit-image scikit-learn Pillow matplotlib 
 
 ## Usage (Google Colab)
 
-This project is designed to run as a single script in **Google Colab** with a T4 GPU.
+This project is designed to run as a single and step by step script in **Google Colab** with a T4 GPU.
 
+Step by step Script:
 1. Upload `final_project.ipynb` to Colab
 2. Run the each stage step by step:
+
+Single Script:
+1. Upload `final_project.py` to Colab
+2. Run the entire notebook — each stage executes sequentially:
 
 | Stage | Description | Approx. Time |
 |-------|-------------|---------------|
